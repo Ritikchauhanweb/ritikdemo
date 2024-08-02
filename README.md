@@ -1,3 +1,3 @@
-# ritikdemo
+cd# ritikdemo
 This is my first Git Repository
-Author - Ritik Chauhan
+Author - Ritik Chauhan (Tmu)
